@@ -4,6 +4,10 @@
 - 💬 Ask me about myself on shapnesht@gmail.com
 - 📫 How to reach me: <bold>shapnesht</bold> on most of the platform
 
+
+| [<img src="https://github.com/Bobby8249/Bobby8249/blob/main/images/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/shapnesh-singh-tiwari-7328311b1/) | [<img src="https://github.com/Bobby8249/Bobby8249/blob/main/images/Twitter.svg" alt="Twitter Logo" width="32">](https://twitter.com/ShapneshT) | [<img src="https://github.com/Bobby8249/Bobby8249/blob/main/images/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/shapnesht/)| [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/shapnesht) | [<img src="https://github.com/Bobby8249/Bobby8249/blob/main/images/HackerRank.svg" alt="HackerRank Logo" width="30">](https://www.hackerrank.com/shapnesht) | [<img src="https://cdn.svgporn.com/logos/medium.svg" alt="Medium Logo" width="30">](https://medium.com/@shapnesht) | [<img src="https://github.com/Bobby8249/Bobby8249/blob/main/images/Gmail.svg" alt="Gmail logo" height="32">](mailto:shapnesht@gmail.com) 
+| [<img src="https://cdn.svgporn.com/logos/whatsapp.svg" alt="Whatsapp logo" height="32">](https://wa.me/+919685065038)
+
 <!--
 **shapnesht/shapnesht** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
