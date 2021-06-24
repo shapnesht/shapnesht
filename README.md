@@ -1,6 +1,6 @@
 ### Hi there I'm Shapnesh Singh Tiwari 👋
 - 🔭 I’m currently working on myself and my skills
-- 🌱 I’m currently learning CPP, Linux, Web Development and much more....
+- 🌱 I’m currently learning Java,CPP, Linux, Web Development and much more....
 - 💬 Ask me about myself on shapnesht@gmail.com
 - 📫 How to reach me: <bold>shapnesht</bold> on most of the platform
 
